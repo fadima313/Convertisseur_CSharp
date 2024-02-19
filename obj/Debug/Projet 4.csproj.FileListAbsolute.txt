@@ -1,0 +1,6 @@
+C:\Users\bmd-tech\Documents\ESMT\cours Projet C#\Projet 4\Projet 4\bin\Debug\Projet 4.exe.config
+C:\Users\bmd-tech\Documents\ESMT\cours Projet C#\Projet 4\Projet 4\bin\Debug\Projet 4.exe
+C:\Users\bmd-tech\Documents\ESMT\cours Projet C#\Projet 4\Projet 4\bin\Debug\Projet 4.pdb
+C:\Users\bmd-tech\Documents\ESMT\cours Projet C#\Projet 4\Projet 4\obj\Debug\Projet 4.csprojResolveAssemblyReference.cache
+C:\Users\bmd-tech\Documents\ESMT\cours Projet C#\Projet 4\Projet 4\obj\Debug\Projet 4.exe
+C:\Users\bmd-tech\Documents\ESMT\cours Projet C#\Projet 4\Projet 4\obj\Debug\Projet 4.pdb
